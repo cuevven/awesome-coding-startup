@@ -10,6 +10,7 @@
 - [naive-ui](https://github.com/TuSimple/naive-ui) `A Vue 3 Component Library`
 - [SCUI Admin](https://lolicode.gitee.io/scui-doc/) `基于 Vue3、elementPlus 持续性的提供独家组件和丰富的业务模板帮助你快速搭建企业级中后台前端任务`
 - [VueUse](https://github.com/vueuse/vueuse) `Collection of essential Vue Composition Utilities for Vue 2 and 3`
+- [fearless](https://github.com/zce/fearless) `A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.`
 
 ## React
 
