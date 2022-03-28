@@ -23,6 +23,12 @@
 - [Garfish](https://github.com/modern-js-dev/garfish) `A powerful micro front-end framework`
 - [EMP](https://github.com/efoxTeam/emp) `EMP Micro FE Base on webpack 5 & module federation`
 
+## JS/TS Utils
+
+- [Frappe Charts](https://github.com/frappe/charts) `Simple, responsive, modern SVG Charts with zero dependencies`
+- [lax.js](https://github.com/alexfoxy/lax.js) `Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.`
+- [tinykeys](https://github.com/jamiebuilds/tinykeys) `jamiebuilds.github.io/tinykeys/`
+
 ## Database Tool
 
 - [dbeaver](https://github.com/dbeaver/dbeaver) `Free universal database tool and SQL client`
