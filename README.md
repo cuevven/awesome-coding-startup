@@ -42,6 +42,7 @@
 - [TypeScript 使用手册（中文版）](https://github.com/zhongsp/TypeScript)
 - [JavaScript 二十年](https://github.com/doodlewind/jshistory-cn)
 - [现代 JavaScript 教程（The Modern JavaScript Tutorial）](https://github.com/javascript-tutorial/zh.javascript.info)
+- [Thinking in Microfrontend (微前端的那些事儿)](https://github.com/phodal/microfrontends)
 - [db-tutorial](https://github.com/dunwu/db-tutorial)
 
 ## Step-By-Step Tutorial
