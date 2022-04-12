@@ -14,6 +14,16 @@
 
 ## React
 
+### Admin Template & Component Library
+
+- [aHooks](https://ahooks.js.org/) `一套高质量可靠的 React Hooks 库`
+- [Mantine](https://github.com/mantinedev/mantine) `React components library with native dark theme support`
+
+# Node.js
+
+- [amplication](https://github.com/amplication/amplication) `It helps you develop quality Node.js applications without spending time on repetitive coding tasks.`
+- [Hackathon Starter](https://github.com/sahat/hackathon-starter) `A boilerplate for Node.js web applications`
+
 ## Micro-Frontends
 
 - [乾坤](https://github.com/umijs/qiankun) `Blazing fast, simple and complete solution for micro frontends.`
@@ -44,6 +54,7 @@
 - [现代 JavaScript 教程（The Modern JavaScript Tutorial）](https://github.com/javascript-tutorial/zh.javascript.info)
 - [Thinking in Microfrontend (微前端的那些事儿)](https://github.com/phodal/microfrontends)
 - [db-tutorial](https://github.com/dunwu/db-tutorial)
+- [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices) `Comprehensive and exhaustive JavaScript & Node.js testing best practices`
 
 ## Step-By-Step Tutorial
 
