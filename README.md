@@ -33,11 +33,19 @@
 - [Garfish](https://github.com/modern-js-dev/garfish) `A powerful micro front-end framework`
 - [EMP](https://github.com/efoxTeam/emp) `EMP Micro FE Base on webpack 5 & module federation`
 
+## Low-code
+
+- [Mall-Cook](https://github.com/wangyuan389/mall-cook) `商城低代码平台，可视化搭建H5、小程序多端商城`
+- [Alibaba LowCodeEngine](https://github.com/alibaba/lowcode-engine) `一套面向扩展设计的企业级低代码技术体系`
+- [Tencent tmagic-editor](https://github.com/Tencent/tmagic-editor) `TMagic 可视化搭建平台`
+- [baidu/amis](https://github.com/baidu/amis) `前端低代码框架，通过 JSON 配置就能生成各种页面。`
+
 ## JS/TS Utils
 
 - [Frappe Charts](https://github.com/frappe/charts) `Simple, responsive, modern SVG Charts with zero dependencies`
 - [lax.js](https://github.com/alexfoxy/lax.js) `Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.`
 - [tinykeys](https://github.com/jamiebuilds/tinykeys) `jamiebuilds.github.io/tinykeys/`
+- [GSAP](https://github.com/greensock/GSAP) `GreenSock's GSAP JavaScript animation library (including Draggable).`
 
 ## Database Tool
 
