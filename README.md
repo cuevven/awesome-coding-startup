@@ -40,12 +40,18 @@
 - [Tencent tmagic-editor](https://github.com/Tencent/tmagic-editor) `TMagic 可视化搭建平台`
 - [baidu/amis](https://github.com/baidu/amis) `前端低代码框架，通过 JSON 配置就能生成各种页面。`
 
-## JS/TS Utils
+## JS/TS Utilities
 
 - [Frappe Charts](https://github.com/frappe/charts) `Simple, responsive, modern SVG Charts with zero dependencies`
 - [lax.js](https://github.com/alexfoxy/lax.js) `Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.`
 - [tinykeys](https://github.com/jamiebuilds/tinykeys) `jamiebuilds.github.io/tinykeys/`
 - [GSAP](https://github.com/greensock/GSAP) `GreenSock's GSAP JavaScript animation library (including Draggable).`
+
+## CSS/SVG Utilities
+
+- [Clippy](https://github.com/bennettfeely/Clippy) `Shape up your website with CSS clip-paths`
+- [fancy-border-radius](https://9elements.github.io/fancy-border-radius/)
+- [make some svg waves](https://getwaves.io/)
 
 ## Database Tool
 
